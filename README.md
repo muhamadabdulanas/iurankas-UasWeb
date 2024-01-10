@@ -16,6 +16,9 @@
 ### https://youtu.be/O8Vx8iM843U?si=G-PvfnonXN7TIg25
 
 
+## Laporan pdf
+[LAPORAN PRAKTIKUM IURAN KAS.pdf](https://github.com/muhamadabdulanas/iurankas-UasWeb/files/13888632/LAPORAN.PRAKTIKUM.IURAN.KAS.pdf)
+
 ### Home Kas
 ![Screenshot (14)](https://github.com/muhamadabdulanas/iurankas-UasWeb/assets/115569493/52952e13-0850-4a30-af52-91fa986c9126)
 
