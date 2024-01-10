@@ -2,9 +2,9 @@
 
 ## Kelompok1
 
-## Nama:Muhamad Abdul Anas (312210269)
-## Nama:Ivan fathurrochman (312210271)
-## Nama:Faiz fauzi muzaki (312210278)
+### Nama:Muhamad Abdul Anas (312210269)
+### Nama:Ivan fathurrochman (312210271)
+### Nama:Faiz fauzi muzaki (312210278)
 
 ## Home Kas
 ![Screenshot (14)](https://github.com/muhamadabdulanas/iurankas-UasWeb/assets/115569493/52952e13-0850-4a30-af52-91fa986c9126)
