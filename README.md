@@ -13,7 +13,7 @@
 
 
 ## Link youtube
-### https://youtu.be/08Vx8iM843U?si=G-PvfnonXN7Tlg25
+### https://youtu.be/O8Vx8iM843U?si=G-PvfnonXN7TIg25
 
 
 ### Home Kas
